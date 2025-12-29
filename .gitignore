@@ -4,7 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 *.log
-pom.xml
 settings.xml
 .mvn/local-settings.xml
 
